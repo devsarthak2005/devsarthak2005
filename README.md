@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **borsesarthak33@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on: Hotel_Management** 
+- 🔭 **I’m currently working on: Myself** 
 - 🌱 **I’m currently learning: Cybersecurity** 
 - 💬 **Ask me about: Java**
 - 📫 **How to reach me: borsesarthak33@gmail.com**
