@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **borsesarthak33@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on: Myself** 
-- 🌱 **I’m currently learning: Cybersecurity** 
+- 🌱 **I’m currently learning: AI tools** 
 - 💬 **Ask me about: Java**
 - 📫 **How to reach me: borsesarthak33@gmail.com**
 - 😄 **Pronouns:he/his**
