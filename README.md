@@ -64,7 +64,7 @@ Currently focused on improving my **backend development, system design, deployme
 
 ## 📌 Featured Projects
 
-### 🔹 Wattram (Wattpad-inspired platform)
+### 🔹 Wattgram (Wattpad-inspired platform)
 - Full-stack web application with **authentication, posting, and user interaction**
 - Built using **Spring Boot, React, MySQL**
 - Focused on **backend architecture, deployment, and real-world features**
