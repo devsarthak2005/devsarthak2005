@@ -104,7 +104,7 @@ MINDSET: Eat. Sleep. Code. Repeat.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devsarthak2005&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devsarthak2005&custom_title=SARTHAK'S%20CONTRIBUTION%20GRAPH&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
