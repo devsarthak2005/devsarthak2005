@@ -81,7 +81,7 @@
       <img src="https://skillicons.dev/icons?i=java,spring,docker"/>
       <br><br>
       <code>WebSockets</code> <code>Low Latency Updates</code><br>
-      <a href="https://github.com/devsarthak200/cricketlive5"><b>View System Repo 🔗</b></a>
+      <a href="https://github.com/devsarthak2005/cricketlive"><b>View System Repo 🔗</b></a>
     </td>
   </tr>
 </table>
