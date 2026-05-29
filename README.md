@@ -14,87 +14,101 @@
 
 ---
 
-# ⚔️ SYSTEM STATUS
+### 🚀 SYSTEM STATUS : ONLINE
 
-```yaml
-NAME: Sarthak Borse
-ROLE: Full Stack Developer
-FOCUS: Backend Architecture
-STACK: Java | Spring Boot | React
-STATUS: Building Scalable Systems
-MINDSET: Eat. Sleep. Code. Repeat.
-```
-
----
-
-# 💻 About Me
-
-> 👋 Hi! I'm *Sarthak Borse* — a passionate *Full-Stack Developer* who enjoys building scalable applications, exploring cloud technologies, and learning modern AI tools.
-
-- 💻 *Role:* Full-Stack Developer
-- 🌍 *Domain:* Web Development | Cloud | System Design | AI Tools
-- 🧠 *Languages:* Java, JavaScript, C++, C
-- ⚡ *Tech Stack:* Spring Boot, React, MySQL, AWS
-- 🔥 *Interests:* Backend Development, Scalable Systems, UI Design
-- 🚀 *Currently Learning:* System Design, Cloud 
-- 🤝 *Open to:* Meaningful open-source collaborations
-- 🌱 *Always Exploring:* Better tools, frameworks & software practices
+<table width="100%">
+  <tr>
+    <td width="60%">
+      <h3 align="center">👨‍💻 About The Developer</h3>
+      <p align="center">
+        Hi! I'm <b>Sarthak Borse</b> — a Full-Stack Developer obsessed with building scalable, highly-available applications. I treat coding like architecture: performance, low latency, and clean systems are my priority.
+      </p>
+      <ul>
+        <li>⚡ <b>Role:</b> Backend Heavy Full-Stack Engineer</li>
+        <li>🧠 <b>Core:</b> Java, C++, JavaScript</li>
+        <li>⚙️ <b>Current Focus:</b> High-Concurrency Systems, Cloud Architecture, DevOps</li>
+        <li>🤝 <b>Open To:</b> Open-source collaborations & System Design challenges</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <div align="center">
+        <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="90%" style="border-radius: 10px;"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# ☠️ TECH STACK
+<div align="center">
+  
+### ☠️ TECH ARSENAL
+
+<table>
+  <tr>
+    <td align="center" width="25%"><b>BACKEND & DB</b></td>
+    <td align="center" width="25%"><b>FRONTEND</b></td>
+    <td align="center" width="25%"><b>DEVOPS & CLOUD</b></td>
+    <td align="center" width="25%"><b>TOOLS</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven&perline=3"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css&perline=3"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&perline=3"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=idea,vscode,postman,figma&perline=3"/></td>
+  </tr>
+</table>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%">
+---
+
+### ⚡ FEATURED ARCHITECTURES
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>📚 Wattgram</h3>
+      <p><i>Production-grade social platform</i></p>
+      <img src="https://skillicons.dev/icons?i=spring,react,mysql"/>
+      <br><br>
+      <code>Authentication</code> <code>Real-time Architecture</code><br>
+      <a href="https://github.com/devsarthak2005/wattgram"><b>View System Repo 🔗</b></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🏏 CricLive</h3>
+      <p><i>High-concurrency live scoring system</i></p>
+      <img src="https://skillicons.dev/icons?i=java,spring,docker"/>
+      <br><br>
+      <code>WebSockets</code> <code>Low Latency Updates</code><br>
+      <a href="https://github.com/devsarthak200/cricketlive5"><b>View System Repo 🔗</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-### BACKEND
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,hibernate"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devsarthak2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-### FRONTEND
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js"/>
-
-### DEVOPS
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux"/>
-
-### TOOLS
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman"/>
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=devsarthak2005&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<div align="center">
 
-# 🚀 PROJECTS
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsarthak2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-## ⚡ Wattgram
+<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devsarthak2005&theme=tokyonight"/>
 
-```diff
-+ Wattpad-inspired social platform
-+ Spring Boot + React
-+ Authentication + Realtime architecture
-+ Production-grade backend structure
-```
-
----
-
-## 🏏 CricLive
-
-```diff
-+ CricHeroes-inspired live scoring platform
-+ Real-time updates
-+ WebSocket architecture
-+ High concurrency backend system
-```
-
----
-
-# 📊 GITHUB ANALYTICS
+</div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsarthak2005&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devsarthak2005&theme=highcontrast&hide_border=true&background=000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsarthak2005&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000"/>
+<img src="https://github-profile-trophy.vercel.app/?username=devsarthak2005&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
