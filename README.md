@@ -88,29 +88,13 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=devsarthak2005&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=devsarthak2005&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsarthak2005&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devsarthak2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=devsarthak2005&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsarthak2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devsarthak2005&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devsarthak2005&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sanchiti04&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
