@@ -94,7 +94,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsarthak2005&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanchiti04&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=devsarthak2005&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
