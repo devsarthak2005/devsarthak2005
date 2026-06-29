@@ -88,44 +88,65 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsarthak2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsarthak2005&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=devsarthak2005&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devsarthak2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+[![GitHub followers](https://img.shields.io/github/followers/devsarthak2005?label=Followers&style=for-the-badge&color=A78BFA&labelColor=0d1117&logo=github)](https://github.com/devsarthak2005)
+[![GitHub stars](https://img.shields.io/github/stars/devsarthak2005?label=Total%20Stars&style=for-the-badge&color=7C3AED&labelColor=0d1117&logo=github)](https://github.com/devsarthak2005)
 
 </div>
 ---
-
-# 🔥 Contribution Graph
+<br>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devsarthak2005&theme=react-dark&hide_border=true&area=true"/>
+| 📁 Metric | 🔢 Details |
+|-----------|-----------|
+| 👤 Username | devsarthak2005 |
+| 🌍 Profile | [github.com/devsarthak2005](https://github.com/devsarthak2005) |
+| 💻 Primary Stack | Java · Spring Boot · React |
+| ☁️ Interests | Cloud · System Design · AI |
+| 🚀 Focus | Building scalable applications |
+| ⭐ Status | Learning & Growing every day |
 
 </div>
 
 ---
-
-# 🐍 Contribution Snake
+# 🧠 What Defines Me
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devsarthak2005/devsarthak2005/output/github-contribution-grid-snake-dark.svg"/>
+![Java](https://img.shields.io/badge/Java-☕%20Developer-A78BFA?style=for-the-badge&labelColor=0d1117)
+![Full Stack](https://img.shields.io/badge/Stack-⚛️%20Full%20Stack-7C3AED?style=for-the-badge&labelColor=0d1117)
+![LeetCode](https://img.shields.io/badge/LeetCode-⚔️%20Active-FFA116?style=for-the-badge&labelColor=0d1117)
+![Cloud](https://img.shields.io/badge/Cloud-☁️%20Explorer-C084FC?style=for-the-badge&labelColor=0d1117)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20Contributor-E879F9?style=for-the-badge&labelColor=0d1117)
+![Learning](https://img.shields.io/badge/Learning-🚀%20Daily-5B21B6?style=for-the-badge&labelColor=0d1117)
+
+</div>
+---
+
+---
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devsarthak2005&theme=tokyo-night&bg_color=ffffff&hide_border=true&area=true&color=A78BFA&line=7C3AED&point=C084FC&area_color=F3E8FF&title_color=A78BFA&custom_title=Sarthak's%20Contribution%20Graph" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devsarthak2005/devsarthak2005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devsarthak2005/devsarthak2005/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/devsarthak2005/devsarthak2005/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
